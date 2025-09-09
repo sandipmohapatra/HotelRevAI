@@ -14,11 +14,11 @@ group-2
 3)swastika
 4)Ravi
 5)Vansh
-6)Dhanasree
+6)Rajana
 --------------------------------------------------------------------
 group-3
 -----------------
-1)Rajana
+1)Dhanasree
 2)Ayush
 3)Shaik Nasreen
 4)Sucheti
